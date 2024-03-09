@@ -1,0 +1,23 @@
+====================== USER OVERVIEW ======================
+
+Number of users: 		 2
+Number of tasks: 		 3
+Number of completed tasks: 	 1
+Number of incomplete tasks: 	 2
+
+---------------------- OVERVIEW for user admin ----------------------
+
+The assigned number of tasks: 			 1
+The percentage of total number of tasks : 	 33%
+The percentage of tasks that are completed : 	 0%
+The percentage of tasks that are incomplete : 	 0%
+The Percentage of overdue tasks: 		 0%
+
+---------------------- OVERVIEW for user peter ----------------------
+
+The assigned number of tasks: 			 2
+The percentage of total number of tasks : 	 67%
+The percentage of tasks that are completed : 	 0%
+The percentage of tasks that are incomplete : 	 0%
+The Percentage of overdue tasks: 		 0%
+

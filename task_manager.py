@@ -431,9 +431,9 @@ def generate_reports():
             for t in task_list:
                 if t["username"]== t_user:
                     t_count+=1
-                    if t["completed"].lower() == "yes":  
+                    if t["completed"] == "yes":  
                         complete_count += 1
-                    elif t["completed"].lower() == "no":
+                    elif t["completed"] == "no":
                         incomplete_count += 1    
                     if overdue_check(t):
                         overdue_count += 1
