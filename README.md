@@ -3,10 +3,12 @@
 The task manager program is designed to manage tasks for any applications.  It allows users to ragister users, add tasks, view all tasks, view particular user tasks, edit the task's properties, generate reports and dispaly its statistics in a secure and efficient manner. 
 
 ## Table of Contents:
-- Installation
-- Usage
-- Credits
-## Installation:
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
+
+## [Installation](#installation)
 To install the Task Manager in repository finalcaptone locally, follow these steps:
 
 1. Clone the repository from GitHub: git clone https://github.com/your-username/finalcapstone.git
@@ -14,7 +16,7 @@ To install the Task Manager in repository finalcaptone locally, follow these ste
 3. save the task_manager program and run it
 4. It will create task.txt and user.txt files
 5. Access suitable tasks and its properties
-## Usage:
+## [Usage](#usage)
 Once the task_manager program is installed, follow these instructions to start using it:
 
 1. Run the program, Log-in using your username and password.
@@ -27,10 +29,13 @@ Once the task_manager program is installed, follow these instructions to start u
    - generate reports
    - display statistics
 
--Screenshots:
+## [Screenshots](#screenshots)
+Attaching the screenshots of task and user overview text files.
 
+![Screenshot](task%20overview.jpeg)
+![Screenshot](user%20overview.jpeg)
 
-## Credits:
+## [Credits](#credits)
 -This project was created by:
 
 - Ramya Sivandurai (https://github.com/RamyaSivandurai)
